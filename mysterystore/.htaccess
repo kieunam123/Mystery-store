@@ -1,0 +1,11 @@
+
+
+php_flag output_buffering on;
+
+# HTID:15302373: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /db.php http://localhost/mysterystore/db.php
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:15302373:
+#allow_url_include=1;
+# HTID:16646910: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 301 /db.php http://localhost/mysterystore/db.php
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:16646910:
